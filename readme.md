@@ -43,7 +43,7 @@ import matplotlib.pyplot as plt
 
 - ini gambar original dengan cara menampilkannya code sebagai berikut :
 
-![App Screenshot](./uts/Screenshots/code_gambar original.png)
+![App Screenshot](/Screenshots/code_gambar original.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Ini membuat sebuah figure baru untuk menampung plot. figsize=(30, 8) menentukan ukuran figure dalam satuan inch. Ukuran tersebut adalah 30x8 inch.
