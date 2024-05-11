@@ -26,24 +26,24 @@ import matplotlib.pyplot as plt
 
 - Kemudian mendefinisikan warna dari semua warna
 
-![App Screenshot](./Screenshots/range_warna.png)
+![App Screenshot](./uts/Screenshots/range_warna.png)
 
 - semua itu mendefinisikan tingkat keterangannya dan ke gelapannya
 
 - lalu Deklarasi warna yang akan digunakan
 
-![App Screenshot](./Screenshots/deteksi_warna.png)
+![App Screenshot](./uts/Screenshots/deteksi_warna.png)
 
 - semua ini warna ini akan digunakan untuk mendeteksi warna yang telah ditentukan
 
 
 ## Tampilkan gambar dan hasil deteksi warna
 
-![App Screenshot](./Screenshots/gambar original.png)
+![App Screenshot](./uts/Screenshots/gambar original.png)
 
 - ini gambar original dengan cara menampilkannya code sebagai berikut :
 
-![App Screenshot](./Screenshots/code_gambar original.png)
+![App Screenshot](./uts/Screenshots/code_gambar original.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Ini membuat sebuah figure baru untuk menampung plot. figsize=(30, 8) menentukan ukuran figure dalam satuan inch. Ukuran tersebut adalah 30x8 inch.
@@ -61,11 +61,11 @@ plt.show(): Ini menampilkan plot yang telah dibuat.
 
 ## Deteksi warna biru
 
-![App Screenshot](./Screenshots/deteksi_warna_biru.png)
+![App Screenshot](./uts/Screenshots/deteksi_warna_biru.png)
 
 - ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
 
-![App Screenshot](./Screenshots/code_deteksi_warna_biru.png)
+![App Screenshot](./uts/Screenshots/code_deteksi_warna_biru.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Seperti sebelumnya, ini membuat sebuah figure baru dengan ukuran 30x8 inch.
@@ -83,11 +83,11 @@ plt.show(): Menampilkan plot yang telah dibuat.
 
 ## Deteksi warna merah
 
-![App Screenshot](./Screenshots/deteksi_warna_merah.png)
+![App Screenshot](./uts/Screenshots/deteksi_warna_merah.png)
 
 - ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
 
-![App Screenshot](./Screenshots/code_deteksi_warna_merah.png)
+![App Screenshot](./uts/Screenshots/code_deteksi_warna_merah.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Membuat sebuah figure baru dengan ukuran 30x8 inch, seperti sebelumnya.
@@ -105,11 +105,11 @@ plt.show(): Menampilkan plot yang telah dibuat.
 
 ## Deteksi warna hijau
 
-![App Screenshot](./Screenshots/deteksi_warna_hijau.png)
+![App Screenshot](./uts/Screenshots/deteksi_warna_hijau.png)
 
 - ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
 
-![App Screenshot](./Screenshots/code_deteksi_warna_hijau.png)
+![App Screenshot](./uts/Screenshots/code_deteksi_warna_hijau.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Membuat sebuah figure baru dengan ukuran 30x8 inch.
@@ -129,7 +129,7 @@ plt.show(): Menampilkan plot yang telah dibuat.
 - berikut urutkan ambang batas terkecil samapi dengan terbesar
 
 ### None
-  ![App Screenshot](./Screenshots/none.png)
+  ![App Screenshot](./uts/Screenshots/none.png)
 
 ### blue
   ![App Screenshot](./Screenshots/blue.png)
