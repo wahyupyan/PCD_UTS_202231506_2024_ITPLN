@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 
 - lalu Deklarasi warna yang akan digunakan
 
-![App Screenshot](./uts/Screenshots/deteksi_warna.png)
+![App Screenshot](deteksi_warna.png)
 
 - semua ini warna ini akan digunakan untuk mendeteksi warna yang telah ditentukan
 
