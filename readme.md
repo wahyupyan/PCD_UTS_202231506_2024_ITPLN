@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 
 - Kemudian mendefinisikan warna dari semua warna
 
-![App Screenshot](./Screenshots/range_warna.png)
+![App Screenshot](range_warna.png)
 
 - semua itu mendefinisikan tingkat keterangannya dan ke gelapannya
 
