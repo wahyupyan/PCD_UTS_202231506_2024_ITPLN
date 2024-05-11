@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
   img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
   hsv_img = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 
--	Coding tersebut bertujuan untuk membaca file gambar "parking_lot.jpeg" dan menyimpannya dalam variabel img menggunakan OpenCV.
+-	Coding tersebut bertujuan untuk membaca file gambar "uts.jpg" dan menyimpannya dalam variabel img menggunakan OpenCV.
 
 - sedangkan cv2.cvtColor(img, cv2.COLOR_BGR2RGB): Ini adalah fungsi yang digunakan untuk mengubah ruang warna gambar. Dalam hal ini, gambar yang dibaca sebelumnya (img) dikonversi dari format BGR (Blue-Green-Red) ke format RGB (Red-Green-Blue). Karena OpenCV membaca gambar dalam format BGR secara default, tetapi dalam banyak kasus, kita lebih suka menggunakan format RGB.
 
@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 
 ![App Screenshot](./Screenshots/deteksi_warna.png)
 
-- semua ini warna ini akan digunakan untuk mendeteksi warna yang telah ditentukan
+- semua warna ini akan digunakan untuk mendeteksi warna yang telah ditentukan
 
 
 ## Tampilkan gambar dan hasil deteksi warna
@@ -52,7 +52,7 @@ plt.subplot(1, 4, 1): Ini menentukan bahwa kita akan memiliki grid plot 1 baris 
 
 plt.imshow(img_rgb): Ini menampilkan gambar img_rgb di subplot yang telah ditentukan sebelumnya.
 
-plt.title('Original Image'): Ini memberikan judul pada plot, dalam hal ini "Original Image".
+plt.title('Original Image'): Ini memberikan judul pada plot, dalam hal ini "gambar original".
 
 plt.axis('off'): Ini menghilangkan sumbu x dan y pada plot.
 
