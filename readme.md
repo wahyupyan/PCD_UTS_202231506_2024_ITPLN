@@ -129,7 +129,7 @@ plt.show(): Menampilkan plot yang telah dibuat.
 - berikut urutkan ambang batas terkecil samapi dengan terbesar
 
 ### None
-  ![App Screenshot](./uts/Screenshots/none.png)
+  ![App Screenshot](./Screenshots/none.png)
 
 ### blue
   ![App Screenshot](./Screenshots/blue.png)
