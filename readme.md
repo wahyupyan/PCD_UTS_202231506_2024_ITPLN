@@ -26,13 +26,13 @@ import matplotlib.pyplot as plt
 
 - Kemudian mendefinisikan warna dari semua warna
 
-![App Screenshot](range_warna.png)
+![App Screenshot](./Screenshot/range_warna.png)
 
 - semua itu mendefinisikan tingkat keterangannya dan ke gelapannya
 
 - lalu Deklarasi warna yang akan digunakan
 
-![App Screenshot](deteksi_warna.png)
+![App Screenshot](./Sreenshots/deteksi_warna.png)
 
 - semua ini warna ini akan digunakan untuk mendeteksi warna yang telah ditentukan
 
