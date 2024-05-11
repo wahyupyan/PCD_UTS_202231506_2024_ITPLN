@@ -39,7 +39,7 @@ import matplotlib.pyplot as plt
 
 ## Tampilkan gambar dan hasil deteksi warna
 
-![App Screenshot](./uts/Screenshots/gambar original.png)
+![App Screenshot](gambar original.png)
 
 - ini gambar original dengan cara menampilkannya code sebagai berikut :
 
