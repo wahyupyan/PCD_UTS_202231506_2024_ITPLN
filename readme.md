@@ -181,4 +181,6 @@ hist = cv2.calcHist([img],[0],None,[256],[0,256]): Ini menghitung histogram gamb
 axs[1,0].imshow(img): Menampilkan gambar asli pada subplot (1,0).
 axs[1,1].plot(hist): Ini menampilkan plot histogram yang telah dihitung menggunakan calcHist().
 
-# the end
+
+# ~The End~
+
