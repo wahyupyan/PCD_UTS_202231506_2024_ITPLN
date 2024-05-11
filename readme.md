@@ -61,7 +61,7 @@ plt.show(): Ini menampilkan plot yang telah dibuat.
 
 ## Deteksi warna biru
 
-![App Screenshot](./Screenshots/deteksi_warna_biru.png)
+![App Screenshot](./Screenshots/deteksiwarnabiru.png)
 
 - ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
 
